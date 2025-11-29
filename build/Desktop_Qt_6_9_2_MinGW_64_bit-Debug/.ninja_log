@@ -1,0 +1,27 @@
+# ninja log v6
+16	683	7860969988154011	GhostClipboard_autogen/timestamp	26b145196bac01c4
+16	683	7860969988154011	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+16	683	7860969988154011	GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+687	3624	7860945814233522	CMakeFiles/GhostClipboard.dir/ghostbubble.cpp.obj	fd780c5f0c8c68d2
+16	683	7860969988154011	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/timestamp	26b145196bac01c4
+688	3360	7860969989057787	CMakeFiles/GhostClipboard.dir/main.cpp.obj	3159a5af1fd7a03d
+685	3599	7860969989027304	CMakeFiles/GhostClipboard.dir/GhostClipboard_autogen/mocs_compilation.cpp.obj	c4aeab8e99d6469b
+691	4511	7860969989082813	CMakeFiles/GhostClipboard.dir/ghostmanager.cpp.obj	691a409d6a4c20b7
+4512	5014	7860970027289168	GhostClipboard.exe	b9c16eceb0182b96
+29	707	7861176449487867	GhostClipboard_autogen/timestamp	26b145196bac01c4
+29	707	7861176449487867	GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+29	707	7861176449487867	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/timestamp	26b145196bac01c4
+29	707	7861176449487867	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+711	3612	7861176450293230	CMakeFiles/GhostClipboard.dir/main.cpp.obj	3159a5af1fd7a03d
+708	3668	7861176450273400	CMakeFiles/GhostClipboard.dir/GhostClipboard_autogen/mocs_compilation.cpp.obj	c4aeab8e99d6469b
+713	3931	7861176450323152	CMakeFiles/GhostClipboard.dir/GhostBubble.cpp.obj	fc8770f3cf5bc58a
+716	4721	7861176450343103	CMakeFiles/GhostClipboard.dir/GhostManager.cpp.obj	d57c8d70a4553ec0
+4722	5615	7861176490408382	GhostClipboard.exe	f7fbddaec188d7b5
+36	729	7861178695118141	GhostClipboard_autogen/timestamp	26b145196bac01c4
+36	729	7861178695118141	GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+36	729	7861178695118141	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/timestamp	26b145196bac01c4
+36	729	7861178695118141	C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/GhostClipboard_autogen/mocs_compilation.cpp	26b145196bac01c4
+733	3362	7861178696037136	CMakeFiles/GhostClipboard.dir/main.cpp.obj	3159a5af1fd7a03d
+730	3513	7861178696007211	CMakeFiles/GhostClipboard.dir/GhostClipboard_autogen/mocs_compilation.cpp.obj	c4aeab8e99d6469b
+736	4787	7861178696067055	CMakeFiles/GhostClipboard.dir/GhostManager.cpp.obj	d57c8d70a4553ec0
+4787	5343	7861178736580392	GhostClipboard.exe	f7fbddaec188d7b5
