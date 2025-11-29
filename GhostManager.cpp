@@ -1,6 +1,5 @@
 #include "GhostManager.h"
 #include "GhostBubble.h"
-
 #include <QApplication>
 #include <QSystemTrayIcon>
 #include <QMenu>
