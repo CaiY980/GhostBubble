@@ -1,5 +1,0 @@
-C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/GhostClipboard.dir
-C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/GhostClipboard_autogen_timestamp_deps.dir
-C:/Users/caiying/Desktop/file/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/GhostClipboard_autogen.dir
